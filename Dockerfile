@@ -8,7 +8,6 @@ COPY go.mod go.sum ./
 RUN go mod download
 
 COPY . ./
-# RUN CGO_ENABLED=0 GOOS=linux go build -o dd-zipkin-proxy ./example
 RUN CGO_ENABLED=0 go build -a -o dd-zipkin-proxy ./example
 
 # repackage just the binary for runtime
