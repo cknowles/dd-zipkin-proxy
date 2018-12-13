@@ -7,3 +7,6 @@ with zipkins http thrift codec. The json codec might have some problems.
 
 On how to use the proxy, see the `example` directory for a simple example.
 
+## Docker
+
+Available from https://hub.docker.com/r/cknowles/dd-zipkin-proxy/
