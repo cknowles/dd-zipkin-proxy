@@ -2,8 +2,8 @@ github.com/DataDog/dd-trace-go v0.6.1 h1:nsZ2lohbSw1CKtfNRu3wPh1jFirv6XSz8vqNpuI
 github.com/DataDog/dd-trace-go v0.6.1/go.mod h1:SmQTTcC37XMyEm75HV0AWiZIYxDiaNhRi49zorIpW+o=
 github.com/Shopify/sarama v1.11.0 h1:JD701r42hP1ms1uytUMa34jZgoddt0XhiElhJt+2ERE=
 github.com/Shopify/sarama v1.11.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
-github.com/apache/thrift v0.0.0-20180517082609-88591e32e710 h1:cN7wkMT/mhe/xN4nE+Xh93lbJhrniXKtOYwAVeDlFOc=
-github.com/apache/thrift v0.0.0-20180517082609-88591e32e710/go.mod h1:cp2SuWMxlEZw2r+iP2GNCdIi4C1qmUzdZFSVb+bacwQ=
+github.com/apache/thrift v0.13.0 h1:5hryIiq9gtn+MiLVn0wP37kb/uTeRZgN08WoCsAhIhI=
+github.com/apache/thrift v0.13.0/go.mod h1:cp2SuWMxlEZw2r+iP2GNCdIi4C1qmUzdZFSVb+bacwQ=
 github.com/davecgh/go-spew v0.0.0-20170711183451-adab96458c51 h1:6HtyV9eyjTS2qw6oy8AUPnKvo8P0CUzv6xyUmcMFhK8=
 github.com/davecgh/go-spew v0.0.0-20170711183451-adab96458c51/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/eSailors/go-datadog v0.0.0-20170317191432-289f416d3143 h1:aQqYu0wJi6fcJyvlzCs8rFn0UM/bRhJanrjF+xscfso=
@@ -34,9 +34,11 @@ github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1 h1:PJPDf8OUfOK1bb/
 github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
 github.com/klauspost/crc32 v0.0.0-20170628072449-bab58d77464a h1:NLr4Iy1X81t+cfi3RXELAOZhlkduugBKsO2RwWHRm8M=
 github.com/klauspost/crc32 v0.0.0-20170628072449-bab58d77464a/go.mod h1:+ZoRqAPRLkC4NPOvfYeR5KNOrY6TD+/sAC3HXPZgDYg=
+github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515 h1:T+h1c/A9Gawja4Y9mFVWj2vyii2bbUNDw3kt9VxK2EY=
 github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFBFZlji/RkVcI2GknAs/DXo4wKdlNEc=
 github.com/mattn/go-colorable v0.0.0-20170210172801-5411d3eea597 h1:hGizH4aMDFFt1iOA4HNKC13lqIBoCyxIjWcAnWIy7aU=
 github.com/mattn/go-colorable v0.0.0-20170210172801-5411d3eea597/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
+github.com/mattn/go-isatty v0.0.0-20170307163044-57fdcb988a5c h1:AHfQR/s6GNi92TOh+kfGworqDvTxj2rMsS+Hca87nck=
 github.com/mattn/go-isatty v0.0.0-20170307163044-57fdcb988a5c/go.mod h1:M+lRXTBqGeGNdLjl/ufCoiOlB5xdOkqRJdNxMWT7Zi4=
 github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b h1:j7+1HpAFS1zy5+Q4qx1fWh90gTKwiN4QCGoY9TWyyO4=
 github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b/go.mod h1:01TrycV0kFyexm33Z7vhZRXopbI8J3TDReVlkTgMUxE=
